@@ -207,7 +207,7 @@ body{
 }
 .item-5{
     height: 200px;
-    background-color: orange;
+    background-color: peru;
 }
 .item-6{
     height: 200px;
@@ -223,33 +223,53 @@ body{
 }
 .item-7{
     height: 200px;
-    background-color: black;
+    background-color: deeppink;
 }
 .item-8{
     height: 200px;
-    background-color: brown;
+    background-color: greenyellow;
 }
 .item-7{
     height: 200px;
-    background-color: black;
+    background-color: darkslategrey;
 }
 .item-8{
     height: 200px;
-    background-color: brown;
+    background-color: darkred;
 }
 .item-9{
     height: 200px;
-    background-color: darkblue;
+    background-color: royalblue;
 }
 .item-10 {
     height: 200px;
-    background-color: lightsalmon;
+    background-color: lightgreen;
 }
 .item-11 {
     height: 200px;
-    background-color: mediumblue;
+    background-color: khaki;
 }
 .item-12 {
     height: 200px;
-    background-color: yellowgreen;
+    background-color: mediumorchid;
+}
+.item-13 {
+    height: 200px;
+    background-color: darkorange;
+}
+.item-14 {
+    height: 200px;
+    background-color: hotpink;
+}
+.item-15 {
+    height: 200px;
+    background-color: teal;
+}
+.item-16 {
+    height: 200px;
+    background-color: chocolate;
+}
+.item-17 {
+    height: 200px;
+    background-color: limegreen;
 }
